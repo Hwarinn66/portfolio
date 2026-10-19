@@ -105,7 +105,7 @@ Next.js performs a static export to `out/`. Serve that directory over HTTP (not 
 
 ### GitHub Pages (free for this public repository)
 
-In repository **Settings → Pages → Build and deployment**, select **GitHub Actions**. The included workflow builds and deploys every push to `main`, with `NEXT_PUBLIC_BASE_PATH=/Portfolio`.
+In repository **Settings → Pages → Build and deployment**, select **GitHub Actions**. The included workflow builds and deploys every push to `main`, with `NEXT_PUBLIC_BASE_PATH=/portfolio`.
 
 ### Vercel
 

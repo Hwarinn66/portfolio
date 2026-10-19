@@ -9,7 +9,7 @@ const NAME = 'Efriza Taufiqurrohman';
 const SEEN_KEY = 'efriza-intro-seen';
 const suggestions = ['portofolio', 'github', 'machine learning'];
 const results = [
-  { url: 'hwarinn66.github.io › Portfolio', title: 'Efriza Taufiqurrohman — Software, AI & IoT', snippet: 'Dari ide menjadi sistem. Tujuh proyek software, machine learning, computer vision, dan IoT.', site: true },
+  { url: 'hwarinn66.github.io › portfolio', title: 'Efriza Taufiqurrohman — Software, AI & IoT', snippet: 'Dari ide menjadi sistem. Tujuh proyek software, machine learning, computer vision, dan IoT.', site: true },
   { url: 'github.com › Hwarinn66 › MBTI-test', title: 'InnerSelf Cognitive', snippet: 'Web refleksi 32 pertanyaan dengan klasifikasi teks lokal.' },
   { url: 'github.com › Hwarinn66 › Smart-Trash', title: 'Smart Trash', snippet: 'Pemilah sampah dengan MobileNetV2, OpenCV, dan ESP32.' },
   { url: 'github.com › Hwarinn66 › face-recognition', title: 'Face Recognition Attendance', snippet: 'Absensi wajah dengan cek kedipan dan tiga client.' },
